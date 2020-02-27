@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsProject</string>
+    <string name="value_of_usd">Value of USD</string>
+    <string name="convert">convert</string>
+    <string name="enter_a_number">Enter a number...</string>
+    <string name="value_of_eur">Value of Eur</string>
+    <string name="value_of_ruble">Value of Ruble</string>
+    <string name="value_of_rupee">Value of Rupee</string>
+</resources>
